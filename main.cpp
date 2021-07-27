@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Welcome to Employee Management Sytem coded by Adarsh in c++ language.
+Welcome to Employee Management System coded by Adarsh in c++ language.
 There is no UI setup build here.Everything happens on command line output.I tried what i can.
 Don't know PostgreSQL.I worked on msql only.Used array to store data here.
 
